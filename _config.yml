@@ -21,9 +21,10 @@
 title: Haasie's Blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi there, my name is Joeri. I have a strong interest in technology and enjoy exploring the latest innovations and trends in this field. 
+  In addition to my love for tech, I also volunteer at the local fire department, dedicating my time to ensuring the safety of my community. 
+  As a father, I value spending quality time with my loved ones and strive to maintain a good work-life balance. 
+  Overall, I am a well-rounded individual who is passionate about making a positive impact in the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hassie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
